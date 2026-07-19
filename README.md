@@ -5,10 +5,11 @@ Repositori ini berisi implementasi Market Basket Analysis untuk mengidentifikasi
 Penerapan Market Basket Analysis Menggunakan Algoritma Apriori untuk Menentukan Strategi Bundling Layanan pada Time Laundry.
 
 Anggota Kelompok & NIM
-Afifah Rahmani  
-Nurfanis Rosman  
-Efendi Sugiantoro  
-Hadzik Sofyan
+
+Afifah Rahmani  714230026
+Nurfanis Rosman  714230022
+Efendi Sugiantoro  714230018
+Hadzik Sofyan 714230019
 
 Penelitian ini bertujuan untuk membantu pengelola Time Laundry dalam memahami pola perilaku konsumen melalui data transaksi. 
 Dengan menggunakan metode Market Basket Analysis dan algoritma Apriori, penelitian ini mengidentifikasi keterkaitan antar layanan untuk 
